@@ -3,8 +3,8 @@ title: Arindam Paul
 email: arindam.paul@eecs.northwestern.edu
 description: >
   PinterNet is a curated image repository collected from Pinterest in use for the Research community. The primary researcher for the project is Rosanne Liu. The website is maintained by Arindam Paul.
-baseurl: "/pinternet"
-url: "http://arindampaul.me"
+baseurl: ""
+url: "http://pinternet.org"
 fixedNav: 'true' # true or false
 theme: purple # green, blue, orange, purple, grey
 twitterUsername: arndmPaul
