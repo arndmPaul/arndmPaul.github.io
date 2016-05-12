@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: about
 ---
 <p align="center">
 <img src="{{ '/img/rosanne.png' | prepend: site.baseurl }}" alt="" height="175" width="175" hspace="55" vspace="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
