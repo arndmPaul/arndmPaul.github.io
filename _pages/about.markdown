@@ -11,3 +11,8 @@ permalink: /about/
 <a href ="http://www.cs.northwestern.edu/~dkj755/" class="magic-button" title="Dipendra Jha, PhD Student"><img src="{{ '/img/dipendra.png' | prepend: site.baseurl }}" alt="" height="175" width="175" hspace="15" vspace="20"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href ="http://users.eecs.northwestern.edu/~choudhar/" class="magic-button" title="Prof. Alok Choudhary, Principal Investigator"><img src="{{ '/img/alok.png' | prepend: site.baseurl }}" alt="" height="175" width="175" hspace="15" vspace="20"></a>
 </p>
+<p></p><br><br>
+<p align="center">
+<img src="{{ '/img/engineering.gif' | prepend: site.baseurl }}" alt="" height="175" width="255" hspace="55" vspace="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="{{ '/img/northwestern.gif' | prepend: site.baseurl }}" alt="" height="125" width="190" hspace="55" vspace="25">
+</p>

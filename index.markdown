@@ -3,7 +3,7 @@ layout: page
 title: PinterNet
 ---
 <p style="text-align:center"><img src="{{ '/img/pinterest.jpg' | prepend: site.baseurl }}" alt="" height="280" width="320"></p>
-<img src="{{ '/img/pinternet.png' | prepend: site.baseurl }}" alt="" height="60" width="120"><b>is a dataset of images collected from <a href="pinterest.com">Pinterest</a> organized into themes.</b>
+<img src="{{ '/img/pinternet.png' | prepend: site.baseurl }}" alt="" height="60" width="120"><b>is a dataset of images collected from <a href="http://www.pinterest.com">Pinterest</a> organized into themes.</b>
 
 <p align ="center">
 110,817 Images (and growing)<br>
