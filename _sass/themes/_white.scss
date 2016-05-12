@@ -2,22 +2,18 @@
    Grey Theme
    ========================================================================== */
 
-.t-purple {
+.t-orange {
 
-  .c-navigation{
-    background: $c__deep-purple;
-  }
+  .c-navigation,
   .c-header {
-    background: transparent ;
-    height:0;
+    background: $c__deep-orange;
   }
 
- .c-article__main a:not(.c-btn) {
-    color: $c__deep-purple;
+  .c-article__main a:not(.c-btn) {
+    color: $c__white;
   }
 
   .c-footer a {
-    color: $c__deep-purple;
-    height:0;
+    color: $c__deep-orange;
   }
 }

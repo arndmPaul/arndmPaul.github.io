@@ -2,13 +2,18 @@
 layout: default
 ---
 <article class="c-article">
-  <header class="c-header c-article__header">
+  <!-- <header class="c-header c-article__header">
     <div class="u-container">
-      <h1 class="c-header__title">{{ page.title }}</h1>
+      <h2 align="center"><img src="{{ '/img/pinternet.png' |  prepend: site.baseurl }}" alt="" height="125" width="225"></h2>
+
     </div>
-  </header>
+  </header> -->
 
   <div class="c-article__main">
+    <div class="u-container">
+      <h2 align="center"><img src="{{ '/img/pinternet.png' |  prepend: site.baseurl }}" alt="" height="125" width="225"></h2>
+
+    </div>
     {{ content }}
   </div>
 </article>
