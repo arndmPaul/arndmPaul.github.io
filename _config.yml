@@ -9,8 +9,8 @@ fixedNav: 'true' # true or false
 theme: purple # green, blue, orange, purple, grey
 twitterUsername: CucisNU
 githubUsername:
-dribbbleUsername:
-codepenUsername:
+
+
 
 # Build settings
 permalink: /:year/:month/:title
