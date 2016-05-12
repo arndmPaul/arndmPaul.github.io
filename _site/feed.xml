@@ -4,10 +4,10 @@
     <title>Arindam Paul</title>
     <description>PinterNet is a curated image repository collected from Pinterest in use for the Research community. The primary researcher for the project is Rosanne Liu. The website is maintained by Arindam Paul.
 </description>
-    <link>http://arindampaul.me/pinternet/</link>
-    <atom:link href="http://arindampaul.me/pinternet/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 May 2016 23:41:34 -0500</pubDate>
-    <lastBuildDate>Wed, 11 May 2016 23:41:34 -0500</lastBuildDate>
+    <link>http://pinternet.org/</link>
+    <atom:link href="http://pinternet.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 12 May 2016 00:54:23 -0500</pubDate>
+    <lastBuildDate>Thu, 12 May 2016 00:54:23 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 01 Dec 2015 17:52:21 -0600</pubDate>
-        <link>http://arindampaul.me/pinternet/2015/12/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://arindampaul.me/pinternet/2015/12/welcome-to-jekyll</guid>
+        <link>http://pinternet.org/2015/12/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://pinternet.org/2015/12/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
@@ -43,8 +43,8 @@
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Jan 2014 12:52:21 -0600</pubDate>
-        <link>http://arindampaul.me/pinternet/2014/01/two-thousand-fourteen</link>
-        <guid isPermaLink="true">http://arindampaul.me/pinternet/2014/01/two-thousand-fourteen</guid>
+        <link>http://pinternet.org/2014/01/two-thousand-fourteen</link>
+        <guid isPermaLink="true">http://pinternet.org/2014/01/two-thousand-fourteen</guid>
         
         
         <category>jekyll</category>
